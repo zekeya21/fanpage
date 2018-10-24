@@ -12,6 +12,9 @@ a {
 
 .main {
     height: 100%;
+    background-color:ground-color:#d10e11;
+    color: red;
+    
 }
 .social-image{
     width: 30px;
